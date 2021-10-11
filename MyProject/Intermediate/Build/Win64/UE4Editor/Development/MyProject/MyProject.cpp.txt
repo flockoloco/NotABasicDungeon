@@ -1,0 +1,2 @@
+C:\Users\tutus\OneDrive\Documentos\GitHub\NotABasicDungeon\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\tutus\OneDrive\Documentos\GitHub\NotABasicDungeon\MyProject\Source\MyProject\MyProject.h
